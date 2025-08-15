@@ -1,0 +1,1 @@
+Honestly, I'm not sure if this even works at all. But basically you have to type a link into the text field at the top of the screen and hit enter. Not any link will work. I'm pretty sure you have to write www.google.com instead of just google.com. Do not include the https:// By default it will run on port 80, http, since I haven't figured out how to use https yet.
